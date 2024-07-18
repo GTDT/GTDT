@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, you can call me GT 😊<br>My passion is  🎶music and 💻coding.<br>Coding languages that I know or learning:<br>   🐍 Python    -   Love this lang ❤️<br>   🐹 Golang   -   Cool Shit 😄<br>   🌐 JS             -   Cool lang:)<br>   💻 C++         -   I mean, I could write something with it🤨<br>   🐘 PHP          -   Umm..<br>
+Hi, you can call me GT 😊<br>My passion is  🎶music and 💻coding.<br>Coding languages that I know or learning:<br>   🐍 Python    -   Love this thing ❤️<br>   🐹 Golang   -   Cool Shit 😄<br>   🌐 JS             -   Cool lang:)<br>   🐘 PHP          -   Umm..<br>
 
 
 ## 🌐 Socials:
